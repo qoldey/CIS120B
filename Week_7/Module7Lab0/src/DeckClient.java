@@ -17,9 +17,6 @@ public class DeckClient {
 
 		System.out.println("Finished testing print methods");
 
-		// myDeck.selectionSort();// <--Sorting not working
-		System.out.println("Finished sorting");
-
 	}
 
 }

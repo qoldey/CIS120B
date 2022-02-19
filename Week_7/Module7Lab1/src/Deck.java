@@ -1,7 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
 import java.util.Arrays;
-import java.util.Random;
 
 /**
  * A deck of playing cards (of fixed length).
