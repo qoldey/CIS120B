@@ -1,0 +1,39 @@
+Chapter 12  Arrays of Objects
+
+12.1  Card Objects
+
+12.2  Card toString
+
+12.3  Class Variables
+
+12.3.1
+<iframe src="https://trinket.io/embed/java/7448d2df59" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+12.4  The compareTo Method
+
+12.4.1
+<iframe src="https://trinket.io/embed/java/cd38a0515a" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+12.5  Cards are Immutable
+
+12.5.1
+
+<iframe src="https://trinket.io/embed/java/b52723b040" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+12.6  Arrays of Cards
+
+12.7  Sequential Search
+
+12.7.1
+<iframe src="https://trinket.io/embed/java/47223e45a0" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+12.8  Binary Search
+
+12.9  Tracing the Code
+
+
+
+
+
+
