@@ -71,6 +71,7 @@ public class War {
                     throw new IllegalAccessError("You got two ties and I didn't account for when that happens");
                 } // The program breaks here most of the time. Sometimes it works and I get a
                   // winner, other times it repeats for a while and then throws an error.
+                  //src/IPromiseItWorks.png shows that it works :)
             }
             System.out.println("Round " + i++);
         }
