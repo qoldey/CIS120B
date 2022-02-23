@@ -228,7 +228,7 @@ public class Deck {
 
     // a method named insertionSort that implements this algorithm.
     public void insertionSort() {
-        for (int i = 1; i < this.length(); i++) {
+        for (int i = 0; i < this.length(); i++) {
             insert(i);
         }
     }
@@ -236,8 +236,9 @@ public class Deck {
     // algorithm
 
     public void insert(int i) {
-        for (int k = i; k > 1 && this.cards[k].compareTo(this.cards[k - 1]) < 0; k--) {
+        for (int k = i; k > 0 && this.cards[k].compareTo(this.cards[k - 1]) < 0; k--) {
             this.swapCards(k, k - 1);
         }
     }
+
 }
