@@ -1,1 +1,1 @@
-/home/uzel/School/winter21/CIS120B/Week_7/ProgrammingAssignment6.0//src/Card.java
+/home/uzel/School/win22/CIS120B/Week_8/Module8Lab00//src/Card.java
