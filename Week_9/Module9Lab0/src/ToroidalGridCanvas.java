@@ -17,12 +17,11 @@ public class ToroidalGridCanvas extends GridCanvas {
 
     // allows the coordinates r and c map to the opposite side of the grid if either
     // or both exceed the index limits.
-    // It does not currently do this.
+    // This is not currently working.
 
     @Override
     public int test(int r, int c) {
         System.out.println(r + " " + c);
-
         try {
             if (array[r][c].isOn()) {
                 return 1;
